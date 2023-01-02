@@ -1,2 +1,2 @@
 # Aerospace
-algorithms written and used to compete in the 2022-23 aerospace drone competition.
+AEAC 2023 Student Competition - BIG CITY URBAN AIR MOBILITY SYSTEM (UAMS) PROTOTYPE DEVELOPMENT AND EVALUATION
