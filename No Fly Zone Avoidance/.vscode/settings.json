@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "iterator": "c",
+        "xmemory": "c",
+        "xutility": "c"
+    }
+}
